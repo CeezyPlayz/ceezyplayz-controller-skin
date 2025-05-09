@@ -1,0 +1,11 @@
+
+/* CeezyPlayz Custom Scuf Envision Pro Skin */
+.button {
+    transition: all 0.2s ease-in-out;
+    opacity: 0.3;
+}
+.button.pressed {
+    opacity: 1;
+    box-shadow: 0 0 12px 4px #ff1e1e;
+}
+/* Add classes for all mapped buttons here (e.g., .a-button, .trigger-left, .g1-button, etc.) */
